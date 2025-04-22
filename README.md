@@ -8,6 +8,8 @@ In this project, let's build a **Notes App** by applying the concepts we have le
 </div>
 <br/>
 
+## Published Link: https://tvsnotes.ccbp.tech/
+
 ### Design Files
 
 <details>
